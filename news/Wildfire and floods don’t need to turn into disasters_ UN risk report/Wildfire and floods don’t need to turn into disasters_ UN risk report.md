@@ -37,7 +37,7 @@ Other common root causes found in the report include inequality of development a
 The connections do not stop at root causes and drivers either, but also with who and what is at most risk; vulnerable groups, in both human settlements and natural ecosystems, continue to be the hardest hit by disasters.
 
 
-![Unsplash/Nahil Naseer Storm](https://github.com/umutkenar/md-test/blob/main/news/Wildfire%20and%20floods%20don%E2%80%99t%20need%20to%20turn%20into%20disasters_%20UN%20risk%20report/image_02.jpg?raw=true)
+![Unsplash/Nahil Naseer Storm](https://github.com/umutkenar/md-test/blob/main/news/Wildfire%20and%20floods%20don%E2%80%99t%20need%20to%20turn%20into%20disasters_%20UN%20risk%20report/image_03.jpg?raw=true)
 
 > Unsplash/Nahil Naseer Storm approaching Kuala Lumpur, Malaysia.
 
@@ -57,7 +57,7 @@ In three of the events analyzed in the report – the British Columbia Heatwave,
 “We have the right kind of solutions to better prevent and manage hazards, but we need to urgently invest in scaling them up and developing a better understanding of how they can work in combination with each other.” 
 
 
-![UNU-EHS / Rodrigo Jardon Maria Antonia](https://github.com/umutkenar/md-test/blob/main/news/Wildfire%20and%20floods%20don%E2%80%99t%20need%20to%20turn%20into%20disasters_%20UN%20risk%20report/image_02.jpg?raw=true)
+![UNU-EHS / Rodrigo Jardon Maria Antonia](https://github.com/umutkenar/md-test/blob/main/news/Wildfire%20and%20floods%20don%E2%80%99t%20need%20to%20turn%20into%20disasters_%20UN%20risk%20report/image_04.jpg?raw=true)
 
 > UNU-EHS / Rodrigo Jardon Maria Antonia, from Baja California, Mexico, wakes up every day before dawn to catch milkfish, corvina and sierrita.
 
