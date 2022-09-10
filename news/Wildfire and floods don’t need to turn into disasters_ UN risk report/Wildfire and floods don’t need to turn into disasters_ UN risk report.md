@@ -1,6 +1,10 @@
 ﻿# Wildfire and floods don’t need to turn into disasters: UN risk report
 
-    Featured Image: "IMAGE 1" Image Alt Text: UNICEF/Andrianantenaina Ambovombe, Androy region, Madagascar, a boy takes shelter on a tree that grows in the direction the “Tioka” wind blows, to protect himself from the sandy wind.
+
+![UNICEF/Andrianantenaina Ambovombe](https://github.com/umutkenar/md-test/blob/main/news/Wildfire%20and%20floods%20don%E2%80%99t%20need%20to%20turn%20into%20disasters_%20UN%20risk%20report/image_01.jpg?raw=true)
+
+> UNICEF/Andrianantenaina Ambovombe, Androy region, Madagascar, a boy takes shelter on a tree that grows in the direction the “Tioka” wind blows, to protect himself from the sandy wind.
+
 
 ##### Hazards such as earthquakes, floods, heatwaves, and wildfires, can be prevented from becoming life-threatening disasters, according to the authors of a UN report launched on Wednesday.
 
@@ -10,7 +14,11 @@ Some 10,000 people lost their lives, and an estimated $280 billion was incurred 
 
 The latest Interconnected Disaster Risks report, from the UN University Institute for Environment and Human Security (UNU-EHS), finds that many of these disasters shared root causes. At the same time, the study’s authors found that the solutions to preventing or managing them are also closely linked.
 
-    "IMAGE 2" Image Alt Text: Unsplash/Anasmeister Strong winds and high temperatures have caused wildfires to spread across Athens in Greece.
+
+![Unsplash/Anasmeister Strong winds](https://github.com/umutkenar/md-test/blob/main/news/Wildfire%20and%20floods%20don%E2%80%99t%20need%20to%20turn%20into%20disasters_%20UN%20risk%20report/image_02.jpg?raw=true)
+
+> Unsplash/Anasmeister Strong winds and high temperatures have caused wildfires to spread across Athens in Greece.
+
 
 ## Connecting the dots
 
@@ -28,7 +36,11 @@ Other common root causes found in the report include inequality of development a
 
 The connections do not stop at root causes and drivers either, but also with who and what is at most risk; vulnerable groups, in both human settlements and natural ecosystems, continue to be the hardest hit by disasters.
 
-    "IMAGE 3" Image Alt Text: Unsplash/Nahil Naseer Storm approaching Kuala Lumpur, Malaysia.
+
+![Unsplash/Nahil Naseer Storm](https://github.com/umutkenar/md-test/blob/main/news/Wildfire%20and%20floods%20don%E2%80%99t%20need%20to%20turn%20into%20disasters_%20UN%20risk%20report/image_02.jpg?raw=true)
+
+> Unsplash/Nahil Naseer Storm approaching Kuala Lumpur, Malaysia.
+
 
 ## 'Let nature work'
 
@@ -44,7 +56,11 @@ In three of the events analyzed in the report – the British Columbia Heatwave,
 
 “We have the right kind of solutions to better prevent and manage hazards, but we need to urgently invest in scaling them up and developing a better understanding of how they can work in combination with each other.” 
 
-    "IMAGE 4" Image Alt Text: UNU-EHS / Rodrigo Jardon Maria Antonia, from Baja California, Mexico, wakes up every day before dawn to catch milkfish, corvina and sierrita.
+
+![UNU-EHS / Rodrigo Jardon Maria Antonia](https://github.com/umutkenar/md-test/blob/main/news/Wildfire%20and%20floods%20don%E2%80%99t%20need%20to%20turn%20into%20disasters_%20UN%20risk%20report/image_02.jpg?raw=true)
+
+> UNU-EHS / Rodrigo Jardon Maria Antonia, from Baja California, Mexico, wakes up every day before dawn to catch milkfish, corvina and sierrita.
+
 
 ## ‘We are all part of the solution’
 

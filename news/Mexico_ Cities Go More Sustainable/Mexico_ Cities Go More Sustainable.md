@@ -1,6 +1,10 @@
 ﻿# Mexico: Cities Go More Sustainable
 
-    Featured Image: "IMAGE 1" Image Alt Text: Guadalajara PACmetro
+
+![Guadalajara PACmetro](https://github.com/umutkenar/md-test/blob/main/news/Mexico_%20Cities%20Go%20More%20Sustainable/image_01.jpg?raw=true)
+
+> Guadalajara PACmetro
+
 
 ##### The large metropolitan area of Guadalajara chooses sustainability promoting low-emission public transport, wastewater treatment and renewable energy.
 

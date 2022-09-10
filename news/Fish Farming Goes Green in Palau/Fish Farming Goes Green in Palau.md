@@ -1,6 +1,10 @@
 ﻿# Fish Farming Goes Green in Palau
 
-    Featured Image: "IMAGE 1" Image Alt Text: Photo by Bob Brewer/ Unsplash
+
+![GPhoto by Bob Brewer/ Unsplash](https://github.com/umutkenar/md-test/blob/main/news/Fish%20Farming%20Goes%20Green%20in%20Palau/image_01.jpg?raw=true)
+
+> Photo by Bob Brewer/ Unsplash
+
 
 ##### Palau chooses aquaculture: a way to protect fish stocks while also safeguarding fishers’ livelihoods and the marine biodiversity that underpins coastal tourism. 
 
