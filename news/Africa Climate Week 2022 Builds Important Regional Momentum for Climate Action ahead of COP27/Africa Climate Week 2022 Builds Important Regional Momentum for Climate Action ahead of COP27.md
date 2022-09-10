@@ -1,10 +1,10 @@
-﻿
+﻿# Africa Climate Week 2022 Builds Important Regional Momentum for Climate Action ahead of COP27
 
 ![Un Climate Change](https://github.com/umutkenar/md-test/blob/main/news/Africa%20Climate%20Week%202022%20Builds%20Important%20Regional%20Momentum%20for%20Climate%20Action%20ahead%20of%20COP27/image_01.jpg?raw=true)
 
 > Un Climate Change
 
-
+##### This year’s Africa Climate Week (ACW 2022) in Libreville, Gabon
 
 This year’s Africa Climate Week (ACW 2022) in Libreville, Gabon, wrapped up today, having helped build important regional momentum in the fight against climate change ahead of the UN Climate Change Conference COP27 in Egypt in November.
 
