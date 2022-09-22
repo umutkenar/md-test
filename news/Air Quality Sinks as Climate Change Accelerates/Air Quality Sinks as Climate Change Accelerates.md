@@ -1,6 +1,6 @@
 ﻿# Air Quality Sinks as Climate Change Accelerates
 
-![UNICEF/Andrianantenaina Ambovombe](https://github.com/umutkenar/md-test/blob/main/news/Wildfire%20and%20floods%20don%E2%80%99t%20need%20to%20turn%20into%20disasters_%20UN%20risk%20report/image_01.jpg?raw=true)
+![Credit: UNFCC](https://github.com/umutkenar/md-test/raw/main/news/Air%20Quality%20Sinks%20as%20Climate%20Change%20Accelerates/image_01.png)
 
 > Credit: UNFCC
     
@@ -41,7 +41,7 @@ The Intergovernmental Panel on Climate Change (IPCC) Sixth Assessment Report (AR
 
 If greenhouse gas emissions remain high, such that global temperatures rise by 3° C from preindustrial levels by the second half of the 21st century, surface ozone levels are expected to increase across heavily polluted areas, particularly in Asia. This includes a 20% increase  across Pakistan, northern India and Bangladesh, and 10% across eastern China.  Most of the ozone increase will be due to an increase in emissions from fossil fuel combustion, but roughly a fifth of this increase will be due to climate change, most likely realized through increased heatwaves, which amplify air pollution episodes. Therefore heatwaves, which are becoming increasingly common due to climate change, are likely to continue leading to a degradation in air quality.
 
-![UNICEF/Andrianantenaina Ambovombe](https://github.com/umutkenar/md-test/blob/main/news/Wildfire%20and%20floods%20don%E2%80%99t%20need%20to%20turn%20into%20disasters_%20UN%20risk%20report/image_01.jpg?raw=true)
+![global surface temperature](https://github.com/umutkenar/md-test/raw/main/news/Air%20Quality%20Sinks%20as%20Climate%20Change%20Accelerates/image_02.png)
 
 > Projected changes in surface ozone levels due to climate change alone in the late part of the 21st Century (2055-2081), if average global surface temperature rises by 3.0 °C above the average temperature of the late 19th Century (1850-1900). 
 

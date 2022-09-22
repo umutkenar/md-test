@@ -1,6 +1,6 @@
 ﻿# United in Science We are Heading in the Wrong Direction
 
-![UNICEF/Andrianantenaina Ambovombe](https://github.com/umutkenar/md-test/blob/main/news/Wildfire%20and%20floods%20don%E2%80%99t%20need%20to%20turn%20into%20disasters_%20UN%20risk%20report/image_01.jpg?raw=true)
+![Canva Pro](https://raw.githubusercontent.com/umutkenar/md-test/main/news/United%20in%20Science%20-%20We%20are%20Heading%20in%20the%20Wrong%20Direction/image_01.png)
 
 > Credit: Canva Pro
 

@@ -1,6 +1,6 @@
 ﻿# Simon Stiell: COP27 Must Demonstrate the Pivot to a New Era of Implementation
 
-![UNICEF/Andrianantenaina Ambovombe](https://github.com/umutkenar/md-test/blob/main/news/Wildfire%20and%20floods%20don%E2%80%99t%20need%20to%20turn%20into%20disasters_%20UN%20risk%20report/image_01.jpg?raw=true)
+![Climate Group](https://raw.githubusercontent.com/umutkenar/md-test/main/news/Simon%20Stiell%20COP27%20Must%20Demonstrate%20the%20Pivot%20to%20a%20New%20Era%20of%20Implementation/image_01.png)
 
 > Credit: Climate Group
 

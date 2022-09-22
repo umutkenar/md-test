@@ -1,6 +1,6 @@
 ﻿# Global Stocktake Showcases Climate Action and Support in Africa
 
-![UNICEF/Andrianantenaina Ambovombe](https://github.com/umutkenar/md-test/blob/main/news/Wildfire%20and%20floods%20don%E2%80%99t%20need%20to%20turn%20into%20disasters_%20UN%20risk%20report/image_01.jpg?raw=true)
+![Credit: World Bank](https://raw.githubusercontent.com/umutkenar/md-test/main/news/Global%20Stocktake%20Showcases%20Climate%20Action%20and%20Support%20in%20Africa/image_01.jpeg)
 
 > Credit: World Bank
 
