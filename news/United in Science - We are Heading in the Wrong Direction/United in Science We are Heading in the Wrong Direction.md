@@ -18,14 +18,23 @@ There is nothing natural about the new scale of these disasters. They are the pr
 
 “This year’s United in Science report shows climate impacts heading into uncharted territory of destruction. Yet each year we double-down on this fossil fuel addiction, even as the symptoms get rapidly worse,” Mr Guterres said in a video message.
 
-
-
-![News Video](http://localhost:3000/video/United_Science_News_Video.mp4)
-
-
+<video
+    width="100%"
+    height="100%"
+    controls
+    autoplay
+    style="
+    min-height: 100%;
+    object-fit: contain;
+    height: 100%;
+    "
+>
+<source
+    :src="'http://localhost:3000/video/United_Science_News_Video.mp4'"
+    type="video/mp4"
+/>
+</video>
 
 “Climate science is increasingly able to show that many of the extreme weather events that we are experiencing have become more likely and more intense due to human-induced climate change. We have seen this repeatedly this year, with tragic effect. It is more important than ever that we scale up action on early warning systems to build resilience to current and future climate risks in vulnerable communities. That is why WMO is spearheading a drive to ensure Early Warnings for All in the next five years,” said WMO Secretary-General Prof. Petteri Taalas.
 
 United in Science provides an overview of the most recent science related to climate change, its impacts and responses. The science is clear – urgent action is needed to mitigate emissions and adapt to the changing climate, says the report. It includes input from WMO (and its Global Atmosphere Watch and World Weather Research Programmes); the UN Environment Programme, the UN Office for Disaster Risk Reduction, the World Climate Research Programme, Global Carbon Project; UK Met Office, and the Urban Climate Change Research Network. It includes relevant headline statements from the Intergovernmental Panel on Climate Change’s Sixth Assessment Report.
-
-
