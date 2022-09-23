@@ -20,7 +20,7 @@ There is nothing natural about the new scale of these disasters. They are the pr
 
 
 
-https://user-images.githubusercontent.com/68250144/191923457-a46c2c9d-96ed-4a05-9b2f-74eda8d142d6.mp4
+![News Video](https://user-images.githubusercontent.com/68250144/191923457-a46c2c9d-96ed-4a05-9b2f-74eda8d142d6.mp4)
 
 
 
