@@ -18,9 +18,9 @@ There is nothing natural about the new scale of these disasters. They are the pr
 
 “This year’s United in Science report shows climate impacts heading into uncharted territory of destruction. Yet each year we double-down on this fossil fuel addiction, even as the symptoms get rapidly worse,” Mr Guterres said in a video message.
 
-<div>
-denemeeasdasd
-</div>
+::: #newsVideo
+deneemeee
+:::
 
 “Climate science is increasingly able to show that many of the extreme weather events that we are experiencing have become more likely and more intense due to human-induced climate change. We have seen this repeatedly this year, with tragic effect. It is more important than ever that we scale up action on early warning systems to build resilience to current and future climate risks in vulnerable communities. That is why WMO is spearheading a drive to ensure Early Warnings for All in the next five years,” said WMO Secretary-General Prof. Petteri Taalas.
 
