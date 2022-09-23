@@ -18,7 +18,7 @@ There is nothing natural about the new scale of these disasters. They are the pr
 
 “This year’s United in Science report shows climate impacts heading into uncharted territory of destruction. Yet each year we double-down on this fossil fuel addiction, even as the symptoms get rapidly worse,” Mr Guterres said in a video message.
 
-::: #newsVideo
+::: id=newsVideo class=newsVideo
 deneemeee
 :::
 
