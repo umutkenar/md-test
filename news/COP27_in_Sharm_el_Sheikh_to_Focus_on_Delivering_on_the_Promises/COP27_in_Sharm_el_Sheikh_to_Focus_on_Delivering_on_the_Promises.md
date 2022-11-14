@@ -1,8 +1,8 @@
 ﻿# COP27 in Sharm el-Sheikh to Focus on Delivering on the Promises of Paris
 
-    Featured Image: "IMAGE 1" Image Alt Text: Credit: UN Climate Change
+![Credit: UN Climate Change](https://raw.githubusercontent.com/umutkenar/md-test/main/news/COP27_in_Sharm_el_Sheikh_to_Focus_on_Delivering_on_the_Promises/Image_01.jpg)
 
-
+> Credit: UN Climate Change
 
 **Sharm el-Sheikh, Egypt, 6 November 2022**  - The United Nations Climate Change Conference COP27 opened today with the key aim of ensuring full implementation of the  [Paris Agreement](https://ecolarium.io/documents/report-on-climate-change/Paris_Agreement.pdf).
 
