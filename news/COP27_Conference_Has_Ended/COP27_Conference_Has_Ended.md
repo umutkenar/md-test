@@ -3,7 +3,7 @@
 ![COP27 Conference Has Ended](https://raw.githubusercontent.com/umutkenar/md-test/main/news/COP27_Conference_Has_Ended/image_1.jpeg)
 
 
-#### The **United Nations** (UN) Climate Conference (COP27) [enter link description here](https://cop27.eg/#/) brought together world leaders in Sharm El Sheikh, Egypt, from 6 to 18 November to discuss the measures to be taken to combat the climate crisis. This year, the climate summit, which covered important topics, was also important in terms of being held after a year of climate disasters and record temperatures.
+#### The **United Nations** (UN) Climate Conference [(COP27)](https://cop27.eg/#/) brought together world leaders in Sharm El Sheikh, Egypt, from 6 to 18 November to discuss the measures to be taken to combat the climate crisis. This year, the climate summit, which covered important topics, was also important in terms of being held after a year of climate disasters and record temperatures.
 
 
 #### Agreement at COP27!
