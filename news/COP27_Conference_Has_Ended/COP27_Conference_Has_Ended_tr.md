@@ -3,7 +3,7 @@
 ![COP27 Konferansı Sona Erdi](https://raw.githubusercontent.com/umutkenar/md-test/main/news/COP27_Conference_Has_Ended/image_1.jpeg)
 
 
-#### **Birleşmiş Milletler ** (BM) İklim Konferansı [(COP27)](https://cop27.eg/#/), 6-18 Kasım tarihleri arasında dünya liderlerini Mısır'ın Şarm El Şeyh kentinde, iklim kriziyle mücadele amacıyla alınacak önlemleri tartışmak üzere bir araya getirdi. Bu yılki iklim zirvesi, önemli konuları ele almasının yanı sıra, iklim felaketleri ve rekor sıcaklıkların yaşandığı bir yılın ardından düzenleniyor olması açısından da önem taşıyordu.
+#### **Birleşmiş Milletler** (BM) İklim Konferansı [(COP27)](https://cop27.eg/#/), 6-18 Kasım tarihleri arasında dünya liderlerini Mısır'ın Şarm El Şeyh kentinde, iklim kriziyle mücadele amacıyla alınacak önlemleri tartışmak üzere bir araya getirdi. Bu yılki iklim zirvesi, önemli konuları ele almasının yanı sıra, iklim felaketleri ve rekor sıcaklıkların yaşandığı bir yılın ardından düzenleniyor olması açısından da önem taşıyordu.
 
 
 #### COP27'de Anlaşma!
