@@ -1,6 +1,6 @@
 ﻿# COP28 Zirvesi BlueZone'da Başladı!
 
-![GPhoto by Bob Brewer/ Unsplash](https://github.com/umutkenar/md-test/blob/main/news/Fish%20Farming%20Goes%20Green%20in%20Palau/image_01.jpg?raw=true)
+![COP28 News and Media](https://github.com/umutkenar/md-test/blob/main/news/COP28_Summit_Started_at_BlueZone/image_01.jpeg?raw=true)
 
 > Görsel Kaynağı: COP28 News and Media
 
@@ -8,7 +8,7 @@
 
 Dünya liderleri Birleşmiş Milletler İklim Değişikliği Konferansı (COP28) için Dubai BlueZone'da bir araya geliyor. Konferansın bu yıl 28'incisi 30 Kasım - 12 Aralık tarihleri arasında Birleşik Arap Emirlikleri'nde gerçekleşiyor. "Taraflar Konferansı" anlamına gelen COP, 1992 yılında imzalanan iklim değişikliği anlaşmasını uygulayan ülkeleri bir araya getiriyor.
 
-![UNU-EHS / Rodrigo Jardon Maria Antonia](https://github.com/umutkenar/md-test/blob/main/news/Wildfire%20and%20floods%20don%E2%80%99t%20need%20to%20turn%20into%20disasters_%20UN%20risk%20report/image_04.jpg?raw=true)
+![COP28 News and Media](https://github.com/umutkenar/md-test/blob/main/news/COP28_Summit_Started_at_BlueZone/image_02.jpeg?raw=true)
 
 > Görsel Kaynağı: COP28 News and Media
 
